@@ -1,4 +1,4 @@
-# Bachelor: The sound of depression
+# Bachelor: The Sound of Depression
 bachelor, 2018: Investigation of acoustic features of speech in depression. 
 
 Using acoustic features of speech to predict:
