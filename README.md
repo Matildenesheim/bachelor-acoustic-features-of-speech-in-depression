@@ -13,3 +13,6 @@ Using a range of different algorithms to classify:
 - KNN
 - Random forest
 - Random forest with XGBoost
+
+
+By Lasse Hansen & Matilde Nesheim
