@@ -1,6 +1,6 @@
 ---
 title: "Bachelor"
-author: "Lasse Hansen"
+author: "Lasse Hansen & Matilde Nesheim"
 date: "October 23, 2018"
 output: html_document
 ---
